@@ -27,7 +27,7 @@
         <dependency>
             <groupId>io.baas</groupId>
             <artifactId>android-client</artifactId>
-            <version>0.0.2-SNAPSHOT</version>
+            <version>$baas_io_sdk_version$</version>
         </dependency>
         <dependency>
             <groupId>com.google.android</groupId>
