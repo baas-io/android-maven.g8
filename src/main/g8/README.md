@@ -1,4 +1,4 @@
-baas.io-startup-android-maven
+$app_name$
 =============================
 
-baas.io startup android application with maven
+Android application with maven and baas.io
