@@ -9,11 +9,11 @@
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>io.baas</groupId>
-    <artifactId>startup-android-maven</artifactId>
+    <groupId>$package$</groupId>
+    <artifactId>$app_name;format="snake"$</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>apk</packaging>
-    <name>startup-android-maven</name>
+    <name>$app_name$</name>
     <properties>
         <platform.version>4.1.1.4</platform.version>
     </properties>
@@ -37,7 +37,6 @@
 
     </dependencies>
     <build>
-        <sourceDirectory>src</sourceDirectory>
         <plugins>
             <plugin>
                 <groupId>com.jayway.maven.plugins.android.generation2</groupId>

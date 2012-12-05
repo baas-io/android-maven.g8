@@ -1,4 +1,4 @@
-package io.baas.startup;
+package $package$;
 
 public class BaasioConfig {
     public static final String BAASIO_URL = "$baas_api_url$";

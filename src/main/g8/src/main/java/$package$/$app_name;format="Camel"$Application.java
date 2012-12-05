@@ -1,5 +1,5 @@
 
-package io.baas.startup;
+package $package$;
 
 import android.app.Application;
 import android.os.AsyncTask;
@@ -10,7 +10,7 @@ import io.baas.gcm.callback.GcmTaskCallback;
 
 import static io.baas.common.utils.LogUtils.makeLogTag;
 
-public class StartupApplication extends Application {
+public class $app_name;format="Camel"$Application extends Application {
     private static final String TAG = makeLogTag(StartupApplication.class);
 
     private AsyncTask mGCMRegisterTask;

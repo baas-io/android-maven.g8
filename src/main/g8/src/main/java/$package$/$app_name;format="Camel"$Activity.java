@@ -1,4 +1,4 @@
-package io.baas.startup;
+package $package$;
 
 
 import android.app.Activity;
