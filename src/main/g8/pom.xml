@@ -28,6 +28,12 @@
             <groupId>io.baas</groupId>
             <artifactId>android-client</artifactId>
             <version>$baas_io_sdk_version$</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>com.google.android.gcm</groupId>
+                    <artifactId>gcm-client</artifactId>
+                </exclusion>
+            </exclusions>
         </dependency>
         <dependency>
             <groupId>com.google.android</groupId>
