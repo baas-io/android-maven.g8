@@ -17,7 +17,7 @@ import org.usergrid.java.client.response.ApiResponse;
 import static io.baas.common.utils.LogUtils.LOGE;
 import static io.baas.common.utils.LogUtils.makeLogTag;
 
-public class StartupActivity extends Activity {
+public class $app_name;format="Camel"$Activity extends Activity {
     private static final String TAG = makeLogTag(StartupActivity.class);
 
     private Context mContext;
