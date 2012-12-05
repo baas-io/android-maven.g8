@@ -11,7 +11,7 @@ import io.baas.gcm.callback.GcmTaskCallback;
 import static io.baas.common.utils.LogUtils.makeLogTag;
 
 public class $app_name;format="Camel"$Application extends Application {
-    private static final String TAG = makeLogTag(StartupApplication.class);
+    private static final String TAG = makeLogTag($app_name;format="Camel"$Application.class);
 
     private AsyncTask mGCMRegisterTask;
 
